@@ -1,2 +1,2 @@
 # Portfolio
-My portfolio
+My portfolio of game development code
